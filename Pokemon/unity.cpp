@@ -14,5 +14,7 @@ int main(){
     
     Game game;
     game.driver();
+
+    return 0;
 }
 
